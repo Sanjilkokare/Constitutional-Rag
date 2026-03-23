@@ -1,0 +1,59 @@
+Explain Article 21 in detail. Include its text, scope, and how it differs from Article 20 and Article 22.
+What changes were introduced in Article 15 by later constitutional amendments? Mention specific amendment numbers and what they added.
+Explain the Seventh Schedule. What are the Union List, State List, and Concurrent List? Give structural differences.
+How does the Constitution define “State” under Article 12, and why is this definition important for Fundamental Rights?
+Compare Fundamental Rights (Part III) with Directive Principles (Part IV). Where do conflicts arise and how does the Constitution resolve them?
+During a National Emergency under Article 352, what happens to Articles 19, 20, and 21? Explain differences carefully.
+Compare Articles 15(4), 15(5), 15(6), 16(4), and 16(6). How does reservation policy differ across education and public employment?
+Explain how Articles 13, 32, 226, and 368 interact in protecting constitutional supremacy.
+Explain Article 356 in detail. What conditions trigger it and how does it affect State governance?
+Compare the ordinance powers of the President (Article 123) and the Governor (Article 213). Highlight procedural differences.
+A person migrated from Pakistan to India after 19 July 1948 and applied for citizenship. Under which Article would their status be determined and what conditions apply?
+A State government passes a law restricting freedom of speech citing public order. Under which Articles can this be challenged? Explain step-by-step.
+What happens during a Financial Emergency under Article 360? How does it impact State salaries and judiciary?
+
+
+Real prompts:
+
+I posted criticism of the government on social media and now the police are threatening action.
+Under the Constitution of India, what are my rights?
+What reasonable restrictions can apply?
+What should I legally check before responding?
+
+
+Arrest Without Information
+I was arrested without being told the reason and denied access to a lawyer for 24 hours.
+Based only on the Constitution of India, what are my rights and what legal remedies exist?
+
+
+Tough RAG Stress-Test Prompts (adversarial / cross-article / edge-case):
+
+1. Article 31C says Directive Principles in Articles 39(b) and 39(c) can override Fundamental Rights. But Article 13 says any law violating Fundamental Rights is void. Which provision wins, and what did the Supreme Court say about this in the Minerva Mills context? Cite the exact constitutional text.
+
+2. The President can issue ordinances under Article 123, but Article 85 allows prorogation of Parliament. Can the executive use repeated prorogation + re-promulgation of ordinances to bypass the legislature indefinitely? What safeguards exist in the Constitution?
+
+3. Article 368 describes the amendment process. But Articles 4 and 169 also allow Parliament to alter the Constitution by ordinary legislation. List all provisions where the Constitution can be changed WITHOUT a constitutional amendment under Article 368.
+
+4. Article 370 granted special status to Jammu & Kashmir. The 2019 Presidential Order used Article 367 to effectively amend Article 370. Explain the original text of Articles 367 and 370, and how one was used to modify the other.
+
+5. A tribal person in a Scheduled Area claims their land was illegally transferred to a non-tribal. Under which constitutional provisions (Fifth Schedule, Article 244, Article 19(1)(f) before repeal) and what institutional mechanisms (Governor's powers, Tribes Advisory Council) does the Constitution protect them?
+
+6. Under Article 143, the President can seek the Supreme Court's advisory opinion. But under Article 141, the Supreme Court's law is binding. Is an advisory opinion under Article 143 binding law under Article 141? What does the Constitution say?
+
+7. Article 21A guarantees free education for children aged 6-14. But Article 30 guarantees minorities the right to establish their own educational institutions. If a minority institution refuses to implement Article 21A, which right prevails? What does Article 15(5) say about this?
+
+8. Compare the impeachment process for the President (Article 61) with the removal process for a Supreme Court judge (Article 124(4)). What are the exact procedural differences in majority requirements, who initiates, and who presides?
+
+9. Article 44 directs the State to secure a Uniform Civil Code. Article 25 guarantees freedom of religion. Article 26 gives religious denominations the right to manage their own affairs. If Parliament enacts a Uniform Civil Code, under exactly which articles could it be challenged, and what exceptions in Article 25(2) might protect the law?
+
+10. During a Proclamation of Emergency, Article 358 automatically suspends Article 19. But Article 359 only suspends enforcement of rights by Presidential order. What is the exact difference? Can Article 20 or 21 be suspended under either provision after the 44th Amendment?
+
+11. Article 32 is itself a Fundamental Right, and Dr. Ambedkar called it the soul of the Constitution. But during Emergency, Article 359 can suspend the right to move the Supreme Court. Does this mean Article 32 can be effectively nullified? What protection did the 44th Amendment add?
+
+12. The Tenth Schedule (Anti-Defection Law) allows disqualification of legislators, but the Speaker decides these cases. Article 212 bars courts from questioning legislative proceedings. Can the Supreme Court under Article 136 review a Speaker's decision on disqualification under the Tenth Schedule despite Article 212?
+
+13. Article 16(4) allows reservation in government posts for backward classes. Article 335 says claims of SC/STs must be consistent with efficiency. If a government provides 80% reservation citing Article 16(4), can Article 335 and the equal protection clause of Article 14 be used to challenge it? What ceiling, if any, does the Constitution specify?
+
+14. Article 300A says no person shall be deprived of property except by authority of law. This replaced the old Article 31 (right to property as a Fundamental Right). What exactly changed? Can a citizen now challenge property deprivation under Article 14 or 21 even though property is no longer a Fundamental Right?
+
+15. The Governor under Article 200 can reserve a State bill for the President's consideration. Article 201 says the President may assent, withhold assent, or return the bill. But there is no time limit specified. Can the Governor or President effectively kill a State law through indefinite inaction? What does the Constitution actually say about time limits in Articles 200 and 201?
